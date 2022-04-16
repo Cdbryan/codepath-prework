@@ -37,14 +37,13 @@ Start, Stop, Pattern functionality:
 
 ![Start](https://user-images.githubusercontent.com/77913247/163657830-ef433236-a059-412d-992b-2e5e41a986f9.gif)
 
+Mistake Counter: 
+
+![mistake](https://user-images.githubusercontent.com/77913247/163658177-fca8ee17-89df-4a4f-9dcb-c14b0a764449.gif)
 
 Winning Game:
 
 ![win](https://user-images.githubusercontent.com/77913247/163658032-3d9ca5e3-681e-4772-af4a-f9885d0c8397.gif)
-
-Mistake Counter: 
-
-![mistake](https://user-images.githubusercontent.com/77913247/163658177-fca8ee17-89df-4a4f-9dcb-c14b0a764449.gif)
 
 Losing Game:
 
