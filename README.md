@@ -51,7 +51,7 @@ Losing Game:
 ![lose](https://user-images.githubusercontent.com/77913247/163658271-17cbd8d1-a2f8-45b9-86b3-b0e716984d67.gif)
 
 
-GIF created with QuickTime Player and [EZGIF.com](https://ezgif.com/video-to-gif).
+GIFs created with [LICEcap](https://www.cockos.com/licecap/).
 
 ## Notes
 
