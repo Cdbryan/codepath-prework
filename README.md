@@ -35,7 +35,8 @@ The following **additional** features are implemented:
 
 Start, Stop, Pattern functionality:
 
-![](https://i.imgur.com/zTligDZ.gif)
+![Start](https://user-images.githubusercontent.com/77913247/163657674-3a3fe272-4a49-4529-96de-56cb2671a4a2.gif)
+
 
 Winning Game:
 
