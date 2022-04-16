@@ -55,4 +55,21 @@ GIFs created with [LICEcap](https://www.cockos.com/licecap/).
 
 ## Notes
 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+* Confetti Shower source code: [CSSscript](https://www.cssscript.com/confetti-falling-animation/)
+* JavaScript reference for randomizing numbers (used for random pattern): [stackoverflow](https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript)
+* Cute animal photos 
+  - Bunny: [unsplash.com](https://unsplash.com/photos/S0aPskfdJGY)
+  - Puppy: [unsplash.com](https://unsplash.com/photos/z_U6bPp_Rjg)
+  - Cow: [unsplash.com](https://unsplash.com/photos/VW-Cu5FJjSM)
+  - Sheep: [unsplash.com](https://unsplash.com/photos/1j9Yrl0nW10)
+  - Duck: [unsplash.com](https://unsplash.com/photos/J0UeiNjSkxc)
+  - Fish: [unsplash.com](https://unsplash.com/photos/VyFdgN2UYeU)
+
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+
 Describe any challenges encountered while building the app.
