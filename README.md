@@ -40,7 +40,8 @@ Start, Stop, Pattern functionality:
 
 Winning Game:
 
-![](https://i.imgur.com/x3AAf1o.gif)
+![win](https://user-images.githubusercontent.com/77913247/163658032-3d9ca5e3-681e-4772-af4a-f9885d0c8397.gif)
+
 
 Losing Game:
 
