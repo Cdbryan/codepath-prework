@@ -57,12 +57,12 @@ GIFs created with [LiceCap](https://www.cockos.com/licecap/)
 * Confetti Shower Troubleshooting [YouTube](https://youtu.be/D8D9AvsowbY)
 * JavaScript reference for randomizing numbers (used for random pattern): [StackOverflow](https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript)
 * Cute Animal Photos: 
- - Bunny: [Unsplash.com](https://unsplash.com/photos/S0aPskfdJGY)
- - Puppy: [Unsplash.com](https://unsplash.com/photos/z_U6bPp_Rjg)
- - Cow: [Unsplash.com](https://unsplash.com/photos/VW-Cu5FJjSM)
- - Sheep: [Unsplash.com](https://unsplash.com/photos/1j9Yrl0nW10) 
- - Duck: [Unsplash.com](https://unsplash.com/photos/J0UeiNjSkxc)
- - Fish: [Unsplash.com](https://unsplash.com/photos/VyFdgN2UYeU)
+  *Bunny: [Unsplash.com](https://unsplash.com/photos/S0aPskfdJGY)
+  *Puppy: [Unsplash.com](https://unsplash.com/photos/z_U6bPp_Rjg)
+  *Cow: [Unsplash.com](https://unsplash.com/photos/VW-Cu5FJjSM)
+  *Sheep: [Unsplash.com](https://unsplash.com/photos/1j9Yrl0nW10) 
+  *Duck: [Unsplash.com](https://unsplash.com/photos/J0UeiNjSkxc)
+  *Fish: [Unsplash.com](https://unsplash.com/photos/VyFdgN2UYeU)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
