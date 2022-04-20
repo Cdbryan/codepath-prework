@@ -1,4 +1,4 @@
-# Pre-work - * "Remember Me?" Memory Game*
+# Pre-work - *"Remember Me?" Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
@@ -65,13 +65,21 @@ GIFs created with [LiceCap](https://www.cockos.com/licecap/)
  - Fish: [Unsplash.com](https://unsplash.com/photos/VyFdgN2UYeU)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+Duck…sheep…chicken… “Congratulations, you remembered!” I attentively play my memory game for likely the hundredth time when that familiar message appears. Although I have won the game, my success is underwhelming. My game resets back to its original state, no celebration, no prize, just a start button that reappears longing for me to play again. I thought for a moment, as much as the cute puppy, cow, and other baby animals that hid beneath the buttons intrigued me, I wished for something more…something unexpected, then it hit me – a confetti cannon. 
+
+Having no previous knowledge of Javascript, I soured google for a confetti cannon implementation that I could utilize in my project, I found a simple source (mentioned above) that seemed like it could be realistically implemented. Thus, I began the process of trial and error. After exploring the confetti source code I found the startconfetti() and stopconfetti() functions that I could implement in my wingame() and startgame() functions and *BAM* there it was, confetti…but not in the right spot. The confetti only appeared below my buttons, not quite the full webpage shower I was looking for. I tried a multitude of things, making the confetti into a paragraph element, creating a div with a paragraph element that utilized the document.getElementById() feature in my own Javascript, and making a canvas element that I attempted to alter the style of in my CSS file. Unfortunately, none of those options were successful, my confetti was still trapped below my buttons and I was getting concerned that it would be trapped there forever. However, my time in computer science has taught me that there is always a way, thus I moved away from HTML, JS, and CSS reference sites and into the realm of YouTube tutorials. My journey of trial and error continued and my files took many forms until I noticed an individual alter the CSS of a canvas in their JS file that allowed their confetti to cover the entire webpage. I search the confetti source code and found a canvas embedded in the script, I then altered the CSS styling of the canvas, and suddenly my 4 hours of confetti cannon “debugging” became all worth it as I watched confetti pour down my webpage upon winning the game. 
+
+Though my understanding of HTML, JS, and CSS was limited, I was able to iterate through the challenge and find the unexpected, colorful surprise I was looking for. 
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+Although I was able to get my project working successfully and with the features I wanted to add, I felt that certain challenges I encountered along the way could have been more efficiently solved if I knew how to debug in JS, HTML, and CSS. On an HTML reference site, I noticed that the terminal, accessed by the inspect element, was used to track the value of specific variables mentioned in the Javascript. I would love to learn how to use the terminal when conducting web development as it allows me to visualize the way my code runs, giving me a greater understanding of my computer’s interpretation of the code. With the skill of debugging, I feel that I could obtain a better foundation of web development, enhancing my programming skillset. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+In school thus far, I have only had the opportunity to work on backend projects. I truly enjoyed working on the memory game as it afforded me a visual and auditory creativity that I have not experienced before in the programming realm. If I had the opportunity to continue with this project, I would implement the timer, and altered game button sounds, likely sounds that align with the animal photos I placed under the buttons. Another sound feature I would like to add is low-volume elevator-style background music. From my experience playing simple online games, background music that can be toggled by the user has always made the game more inviting and I believe it would do the same for my game. Lastly, with my newly learned knowledge of confetti cannon implementation, I would like to apply a different particle pop-up when the user loses the game, such as sad faces which I feel will make the game more interactive with the player. 
 
 
 
