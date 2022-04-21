@@ -85,7 +85,7 @@ In school thus far, I have only had the opportunity to work on backend projects.
 
 ## Interview Recording URL Link
 
-[Christian Bryan Interview Recording](https://usc.zoom.us/rec/share/AVHwqpR6C2VgcHSWgWngNDbU5L9wLv_ZPG39y9WH4xI3oSh_bnNrhUFDct5GeC3g.WrBup0rZNDKfLsaV?startTime=1650578443000)
+[Christian Bryan Interview Recording](https://youtu.be/k5fJUnoIPNM)
 
 
 ## License
